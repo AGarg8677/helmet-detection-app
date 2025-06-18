@@ -1,0 +1,26 @@
+names:
+  0: hats
+  1: no_hats
+
+helmet_class: hat
+no_helmet_class: no_hat
+
+
+
+# names:
+#   0: ignore
+#   1: helmet
+#   2: person
+
+# helmet_class: helmet
+# no_helmet_class: person
+
+
+
+
+# train: /content/drive/MyDrive/Helmet_detection/Dataset/train/images
+# val: /content/drive/MyDrive/Helmet_detection/Dataset/valid/images
+# test: /content/drive/MyDrive/Helmet_detection/Dataset/test/images
+
+# nc: 3
+# names: ['dog', 'hat', 'person']

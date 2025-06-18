@@ -1,0 +1,11 @@
+model_path: weights/helmet_model.pt
+class_file: data/class_names.yaml
+
+camera_feeds:
+  - rtsp://192.168.1.10:554/stream1
+  - rtsp://192.168.1.11:554/stream2
+  - rtsp://192.168.1.12:554/stream3
+
+confidence_threshold: 0.2
+alarm_cooldown_sec: 10
+alarm_sound_file: alarm.wav

@@ -1,0 +1,5 @@
+ultralytics
+opencv-python
+PyYAML
+playsound==1.2.2
+simpleaudio
